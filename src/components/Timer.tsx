@@ -143,6 +143,7 @@ export default function Timer() {
             Reset
           </button>
         </div>
+        <small className="font-mono">Note: Click reset to stop audio.</small>
       </div>
     </div>
   );
