@@ -1,3 +1,27 @@
+# Pomodoro Timer
+
+A customizable countdown timer built with React and TypeScript.
+
+## Features
+- Adjustable hours, minutes, seconds
+- Audio alert when timer completes
+- Clean, responsive UI with Tailwind CSS
+- Start/Stop/Reset functionality
+
+## Tech Stack
+- React + TypeScript
+- Tailwind CSS
+- Web Audio API
+
+## Live Demo
+[Link here after deploy]
+
+## Run Locally
+```bash
+npm install
+npm run dev
+```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,4 +95,3 @@ export default defineConfig([
   },
 ])
 ```
-# onlineTimer
